@@ -1639,3 +1639,8 @@ section> :last-child, section:last-child, .last-child {
 		margin: 0 0 10px 0 !important;
 	}
 }
+
+.final {
+	color: red;
+	background-color: red;
+}
