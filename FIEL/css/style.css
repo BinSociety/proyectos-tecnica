@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    background-color: rgb(223, 219, 219);
+}
+
+.display {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: red;
+}
+
+.jumbotron {
+    background-color: rgb(223, 219, 219);
+}
+
+.btn-lg {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border-style: double;
+    border-radius: 20px;
+    border-color: rgb(0, 0, 0);
+}
